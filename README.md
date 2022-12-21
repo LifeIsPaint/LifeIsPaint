@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LifeIsPaint
-- 👀 I’m interested in Node.js, Pyython & Swift
-- 🌱 I’m currently learning Webdevelopement
+- 👀 I’m interested in Node.js, Python & Swift
+- 🌱 I’m currently learning webdevelopement
 
 <!---
 LifeIsPaint/LifeIsPaint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

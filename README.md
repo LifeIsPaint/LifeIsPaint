@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LifeIsPaint
-- 👀 I’m interested in Node.js, Python & Swift
+- 👀 I’m interested in Next.js, Python & Swift
 - 🌱 I’m currently learning webdevelopement
 
 <!---
